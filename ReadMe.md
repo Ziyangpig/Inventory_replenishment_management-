@@ -3,7 +3,7 @@
 补充材料链接：https://doi.org/10.1287/msom.2022.1168
 
 ## 问题基本设定
-- 单商品、单仓库，有限离散horizon
+- 单商品、单仓库，有限离散horizon 
 - 考虑lost-sales 和 backlogging两种模型，并拓展到具有提前期的情况（a positive lead time）
 - 需求不确定性：box uncertainty 和 polyhedral uncertainty
 - 决策每个订货周期的长度和订货量
